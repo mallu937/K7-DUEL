@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://api.pastefy.lol/files/v4/loaders/bee22d8533634002a436b0af2299a627.lua"))()
+loadstring(game:HttpGet("https://api.pastefy.lol/files/v4/loaders/8e7b0bcdeaf24f70a7a51f2d93c4ec3b.lua"))()
